@@ -109,14 +109,7 @@ void Student::search(string key,string fname)
 	i++;
 	}
 
-#include <iostream>
-using namespace std;
 
-int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	return 0;
-}
 
-	myf.close();
-}
+
 
